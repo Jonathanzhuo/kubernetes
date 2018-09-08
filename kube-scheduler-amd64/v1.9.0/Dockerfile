@@ -1,2 +1,2 @@
-From gcr.io/google-containers/kube-scheduler-amd64@sha256:3760355108b97ed0ff74d33fbec72764e1d7f8fbdb06ed0934117196819e3d00
+From gcr.io/google-containers/kube-scheduler-amd64@sha256:14f8f8dcf2e52e19b5db5ad8e84239d50fdb080a8b96677f9cf0ea944b40bec4
 MAINTAINER jonathanzhuo
