@@ -1,0 +1,2 @@
+From gcr.io/google-containers/k8s-dns-kube-dns-amd64@sha256:f5bddc71efe905f4e4b96f3ca346414be6d733610c1525b98fff808f93966680
+MAINTAINER jonathanzhuo
