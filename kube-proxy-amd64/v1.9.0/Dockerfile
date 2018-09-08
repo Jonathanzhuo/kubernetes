@@ -1,0 +1,2 @@
+From gcr.io/google-containers/kube-proxy-amd64@sha256:3760355108b97ed0ff74d33fbec72764e1d7f8fbdb06ed0934117196819e3d00
+MAINTAINER jonathanzhuo
