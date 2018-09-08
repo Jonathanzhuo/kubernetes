@@ -1,2 +1,2 @@
-From gcr.io/google-containsers/kubernetes-dashboard-amd64:v1.8.3
+From gcr.io/google-containers/kubernetes-dashboard-amd64@sha256:dc4026c1b595435ef5527ca598e1e9c4343076926d7d62b365c44831395adbd0
 MAINTAINER jonathanzhuo
