@@ -1,0 +1,2 @@
+From gcr.io/google-containers/kube-apiserver-amd64@sha256:47377f5df3ea25cb677fe081be78dce9ffe4a58dcaaa4191a0a9e8295cfb848b
+MAINTAINER jonathanzhuo
