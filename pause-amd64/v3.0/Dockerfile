@@ -1,2 +1,2 @@
-From gcr.io/google-containers/pause-amd64:v3.0
+From gcr.io/google-containers/pause-amd64@sha256:163ac025575b775d1c0f9bf0bdd0f086883171eb475b5068e7defa4ca9e76516
 MAINTAINER jonathanzhuo
